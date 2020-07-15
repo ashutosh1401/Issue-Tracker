@@ -1,0 +1,8 @@
+body {
+  background-color: #312e36;
+}
+
+.color-white {
+  color: white;
+  border-top: 2px solid whitesmoke;
+}
